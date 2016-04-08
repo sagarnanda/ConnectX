@@ -118,6 +118,5 @@ void ConnectX::placePiece(int column)
 			break;
 		}
 	}
-
 	toggleTurn();
 }
